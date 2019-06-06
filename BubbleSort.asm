@@ -8,7 +8,7 @@
 ;Output:	Display sorted values in ascending order on console
 
 ;=-=-=-=-=-=-=-=-=-=-=
-;Registers
+;Registers Main Use
 ;=-=-=-=-=-=-=-=-=-=-=
 ;R0 as the first item to be manipulated
 ;R1 as the second item to be manipulated
